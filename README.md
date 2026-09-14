@@ -2,7 +2,7 @@
 
 Images publiques de la signature mail Monik, servies par jsDelivr :
 
-- `https://cdn.jsdelivr.net/gh/alexis564321/monik-signature@v1/logo-monik.png`
+- `https://cdn.jsdelivr.net/gh/alexis564321/monik-signature@v2/logo-monik-vert.png` (logo vert, depuis v2 ; le logo beige reste en v1)
 - `https://cdn.jsdelivr.net/gh/alexis564321/monik-signature@v1/icon-mail.png`
 - `https://cdn.jsdelivr.net/gh/alexis564321/monik-signature@v1/icon-tel.png`
 
